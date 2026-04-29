@@ -297,7 +297,8 @@ Open `schema.svg` in a browser or SVG viewer.
 > **Screenshot 2:** Take a screenshot of `schema.svg` open in your browser,
 > showing all five entities and all four relationships, and insert it here.
 >
-> <img width="916" height="461" alt="image" src="https://github.com/user-attachments/assets/1d05bb70-6ed3-41f5-b7e6-7ff850e75a34" />
+> <img width="583" height="708" alt="image" src="https://github.com/user-attachments/assets/ba16f21d-6279-44de-9583-7d7f8ec44277" />
+
 
 
 Once the diagram looks correct, tell Git to ignore the generated artifact.
@@ -400,7 +401,8 @@ git tag
 > **Screenshot 3:** Take a screenshot of `git log --oneline -5` showing your
 > commits in order, and insert it here.
 >
-> <img width="928" height="81" alt="image" src="https://github.com/user-attachments/assets/b52d27d1-72ed-4a95-a1cd-632d39499746" />
+> <img width="765" height="118" alt="image" src="https://github.com/user-attachments/assets/0a4ed550-8d64-44c7-a38a-77f39956178a" />
+
 
 
 > **Caveat:** Tags are not pushed automatically with `git push origin main`.
@@ -593,7 +595,8 @@ Open your fork on GitHub and navigate to the **Actions** tab.
 > **Screenshot 4:** Take a screenshot of the completed GitHub Actions run
 > showing all four steps with green checkmarks, and insert it here.
 >
-> <img width="930" height="578" alt="image" src="https://github.com/user-attachments/assets/14e8ad33-4702-4c70-a83d-5a44a0e6bdbf" />
+> <img width="920" height="672" alt="image" src="https://github.com/user-attachments/assets/cf465cc3-1882-40e3-9c5d-54c4bbb886b2" />
+
 
 
 Once the workflow has completed, navigate to **Releases** in the right sidebar.
@@ -606,7 +609,8 @@ Once the workflow has completed, navigate to **Releases** in the right sidebar.
 > release title, the release notes, and the `schema.svg` download link, and
 > insert it here.
 >
-> <img width="940" height="660" alt="image" src="https://github.com/user-attachments/assets/e8b01d44-e30d-40eb-86ef-acdcb05bfbf2" />
+> <img width="937" height="536" alt="image" src="https://github.com/user-attachments/assets/bdc45b77-910f-4a6f-aeec-ff338209af5d" />
+
 
 
 ### Questions for Task 6
@@ -667,7 +671,10 @@ instead.
 > `schema.svg` from the Release in the same browser window alongside it.
 > Capture both in one screenshot and insert it here.
 >
-> <img width="937" height="93" alt="image" src="https://github.com/user-attachments/assets/134299d2-f245-42eb-b6d5-6df4d7b379fd" />
+> <img width="1071" height="159" alt="image" src="https://github.com/user-attachments/assets/08eb9877-80e1-4dfe-889c-1d956b2395c5" />
+<img width="575" height="716" alt="image" src="https://github.com/user-attachments/assets/33610b79-289d-4907-b96a-9363c9ebe637" />
+
+
 
 
 ---
@@ -716,7 +723,10 @@ instead.
    > **Screenshot 7:** Take a screenshot of your extended `schema.svg` and the
    > corresponding GitHub Release page, and insert it here.
    >
-   > <img width="820" height="370" alt="image" src="https://github.com/user-attachments/assets/a3f36796-9409-4e91-9d7d-9b23260e8d56" />
+   > <img width="941" height="538" alt="image" src="https://github.com/user-attachments/assets/070ab014-64f1-4a6a-b448-f74c4ce0948c" />
+   <img width="602" height="724" alt="image" src="https://github.com/user-attachments/assets/de71ef93-0281-4df0-a27b-59b9d398c7f0" />
+
+
 
 
 ---
